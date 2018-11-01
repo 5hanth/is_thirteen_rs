@@ -5,6 +5,7 @@ authors = ["Shanthakumar <sh4nth@gmail.com>"]
 keywords = ["isthirteen", "is_thirteen_rs", "thirteen"]
 categories = ["math", "date"]
 readme = "Readme.md"
+license = "License.md"
 description = "An rust package to check if a number is equal to 13."
 repository = "https://github.com/5hanth/is_thirteen_rs"
 
