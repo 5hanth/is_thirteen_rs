@@ -2,7 +2,7 @@
 name = "is_thirteen_rs"
 version = "0.1.0"
 authors = ["Shanthakumar <sh4nth@gmail.com>"]
-keywords = ["is thirteen", "is_thirteen_rs"]
+keywords = ["isthirteen", "is_thirteen_rs", "thirteen"]
 categories = ["math", "date"]
 readme = "Readme.md"
 description = "An rust package to check if a number is equal to 13."
