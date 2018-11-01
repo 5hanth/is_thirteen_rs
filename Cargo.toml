@@ -1,0 +1,17 @@
+[package]
+name = "is_thirteen_rs"
+version = "0.1.0"
+authors = ["Shanthakumar <sh4nth@gmail.com>"]
+keywords = ["is thirteen", "is_thirteen_rs"]
+categories = ["math", "date"]
+readme = "Readme.md"
+description = "An rust package to check if a number is equal to 13."
+repository = "https://github.com/5hanth/is_thirteen_rs"
+
+[dependencies]
+chrono = "0.4"
+
+[badges]
+maintenance = { status = "looking-for-maintainer" }
+
+
